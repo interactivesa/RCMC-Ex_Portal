@@ -1,0 +1,49 @@
+
+
+.inner-header{
+    height: auto;
+}
+
+// breadcrumb
+.breadcrumbSec {
+    background: #fff;
+    padding: 23px 0;
+    // margin-bottom: 60px;
+    .breadcrumb {
+        margin-bottom: 0;
+      li {
+        font-size: 1rem;
+        a {
+          font-size: 1rem;
+          color: $main-color;
+        }
+        &:last-of-type {
+          color: $gray-color;
+        }
+        &:not(:last-of-type) {
+          // background-color: red;
+          padding-#{$end-direction}: 30px;
+          position: relative;
+          &::before {
+            position: absolute;
+            content: "";
+            background-image: url(../images/shared/arrowBC.svg);
+            background-repeat: no-repeat;
+            background-size: 18px;
+            #{$end-direction}: 6px;
+            top: 6px;
+            width: 18px;
+            height: 18px;
+          }
+        }
+      }
+    }
+
+  }
+
+  .content{
+    min-height: 50vh;
+  }
+
+
+

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="74.414" height="53.007" viewBox="0 0 74.414 53.007">
+  <g id="MTM" transform="translate(0 -3196.298)">
+    <g id="Group_48720" data-name="Group 48720" transform="translate(0 3196.299)" opacity="0">
+      <path id="Polygon_2" data-name="Polygon 2" d="M24.465,0,48.93,37.717H0Z" transform="translate(25.484 15.291)" fill="#a1a9ae" opacity="0.699"/>
+      <path id="Polygon_3" data-name="Polygon 3" d="M16.82,0l16.82,27.523H0Z" transform="translate(8.155 25.484)" fill="#a1a9ae" opacity="0.703"/>
+      <circle id="Ellipse_9919" data-name="Ellipse 9919" cx="7.645" cy="7.645" r="7.645" transform="translate(0 0)" fill="#444848" opacity="0.699"/>
+    </g>
+    <path id="office-building-marker-outline" d="M25.362,15.908h3.727v3.727H25.362V15.908m3.727-7.454H25.362v3.727h3.727V8.454M17.908,27.088h3.727V23.362H17.908v3.727M21.635,8.454H17.908v3.727h3.727V8.454M17.908,19.635h3.727V15.908H17.908v3.727M14.181,8.454H10.454v3.727h3.727V8.454m0,7.454H10.454v3.727h3.727V15.908M24.523,38.269H21.635V31.747H17.908v6.522H6.727V4.727H32.815V19.69a9.846,9.846,0,0,1,3.727,1.118V1H3V42H27.057c-.764-1.044-1.7-2.311-2.534-3.727M10.454,34.542h3.727V30.815H10.454v3.727m3.727-11.181H10.454v3.727h3.727V23.362m24.225,6.522C38.406,34.729,31.884,42,31.884,42s-6.522-7.267-6.522-12.112a6.522,6.522,0,1,1,13.044,0m-4.286.186a2.4,2.4,0,0,0-2.236-2.236,2.236,2.236,0,1,0,0,4.472A2.148,2.148,0,0,0,34.12,30.07Z" transform="translate(16.504 3201.304)" fill="#756b65"/>
+  </g>
+</svg>
